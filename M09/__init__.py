@@ -1,0 +1,2 @@
+def thisWorks ():
+    print("Woohoo!")
