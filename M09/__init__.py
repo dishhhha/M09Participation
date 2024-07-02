@@ -1,2 +1,1 @@
-def thisWorks ():
-    print("Woohoo!")
+print("Woohoo!")
